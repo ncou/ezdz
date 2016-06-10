@@ -26,6 +26,8 @@
 
 .ezdz-dropzone div {
     /* */
+    text-align: center;
+    margin: auto;
 }
 
 .ezdz-dropzone span {
@@ -49,7 +51,7 @@
     border-radius: 5px;
     max-width: 95%;
     max-height: 95%;
-    margin-top: -3px;
+    margin-top: -6px;
     vertical-align: middle;
 }
 
